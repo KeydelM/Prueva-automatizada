@@ -5,6 +5,6 @@
 #Video De evidencia del funcionamiento de la prueba 
 https://youtu.be/NsoILyJDR6I
 
-#Evidencias de Historias de usuario Hechas en GitHub
+#Evidencias de Historias de usuario Hechas en GitHub (Para ver mas detallado ir al apartado de issues!)
 ![image](https://github.com/user-attachments/assets/bc492d80-9629-4b88-b647-6595c40abfec)
 
